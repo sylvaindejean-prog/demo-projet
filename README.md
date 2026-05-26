@@ -2,7 +2,7 @@
 
 Un utilitaire Python simple pour calculer des statistiques de base sur une liste de nombres.
 
-## Fonctionalités
+## Fonctionnalités
 
 - Calculer la moyenne d'une liste
 - Trouver le minimum et le maximum
